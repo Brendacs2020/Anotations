@@ -1,4 +1,19 @@
+Logic operators
+    ==	= equal
+	!=	= different
+	>	= more than
+	<	= less than
+	>=	= more or equal than
+	<=	= less or equal than
 
+Aritmetic operators
+	+	some
+	-	subtration
+	*	multiplication
+	/	division
+	%	division rest
+	**	potentiation
+	//	integer part od division
 
 Manipulating texts
 
@@ -22,5 +37,15 @@ Manipulating texts
 
     .split() = division considering the spaces, each word goes into a list
     ''.join() = marge all sentense element with a separator into ''
+    
+
+Formatations texts
+
+    {:.2f}" = 2 decimal cases 
+    {:.<30}' = aligne on lefth in 30 decimal cases
+        <	= alinha pra esquerda.
+        >	= alinha pra direita.
+        ^	= alinha com o centro.
+
 
 
