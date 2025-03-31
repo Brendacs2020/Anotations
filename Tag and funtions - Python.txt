@@ -1,0 +1,18 @@
+
+
+Manipulating texts
+
+    .find('')) -> find a string
+    .replace('','') -> find the first word and chege for the second word
+    .upper() -> change all letters to uppercase
+    .lower() -> change all letter to lowercase
+    .capitalize() -> change first letter to uppercase, outher letters to lowercase
+    .title() -> change the first letter of each word to uppercase
+    .strip() -> removes spaces from begining and end of the setence
+    .rstrip() -> (right) removes spaces from end of the setence
+    .lstrip() -> (lefth) removes spaces from begining of the setence
+
+    .split() -> division considering the spaces, each word goes into a list
+    
+
+
