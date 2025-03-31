@@ -23,7 +23,7 @@ Manipulating texts
     [num:num1] = count the numbers into [] and takes letters between num:num1 
     [num:num1:num2] = count the numbers into [] and takes letters between num:num1 counting of num2
 
-    .find('')) = find a string
+    .find('') = find a string
     .replace('','') = find the first word and chege for the second word
     .upper() = change all letters to uppercase
     .lower() = change all letter to lowercase
@@ -37,7 +37,7 @@ Manipulating texts
 
     .split() = division considering the spaces, each word goes into a list
     ''.join() = marge all sentense element with a separator into ''
-    
+
 
 Formatations texts
 
