@@ -48,4 +48,8 @@ Formatations texts
         ^	= alinha com o centro.
 
 
+Typs
+    Polymorphism = same operator for things differents - See after!
+    str, int, flat and bool = imutable
+    
 
