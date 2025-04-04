@@ -50,4 +50,8 @@ Formatations texts
 
 Conditions
 
+Typs
+    Polymorphism = same operator for things differents - See after!
+    str, int, flat and bool = imutable
+    
 
