@@ -48,4 +48,6 @@ Formatations texts
         ^	= alinha com o centro.
 
 
+Conditions
+
 
