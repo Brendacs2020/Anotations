@@ -55,3 +55,19 @@ Typs
     str, int, flat and bool = imutable
     
 
+Colores
+    \033[  ;   ;   m = style;text;back
+
+    0 = none
+    1 = bold
+    4 = underline
+    7 = negative
+    30/40 = white
+    31/41 = red
+    32/42 = green
+    33/43 = yellon
+    34/44 = blue
+    35/45 = pink
+    36/46 = cyan
+    37/47 = gray
+    
